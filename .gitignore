@@ -1,0 +1,4 @@
+objects/*
+!objects/.gitkeep
+/chccp.pdf
+/input.txt
