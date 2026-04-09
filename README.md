@@ -42,7 +42,7 @@ make clean
 
 # ▶️ Como Executar
 
-A execução deve ser feita via linha de comando, passando o arquivo de texto com a lista das tarefas como argumento.
+A execução deve ser feita via linha de comando, passando o arquivo de texto com a lista das tarefas como argumento (Obs: input.txt é um arquivo de exemplo)
 
 ## Para executar o Rate Monotonic:
 
